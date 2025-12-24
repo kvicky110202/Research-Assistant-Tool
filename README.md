@@ -1,6 +1,6 @@
 # 🏙️ **Research Assistant Tool**
 
-built a user-friendly research assistant tool designed for effortless information retrieval. Users can input URLs and ask questions to receive relevant insights from a domain. (But it's features can be extended to any domain.)
+Built a user-friendly research assistant tool designed for effortless information retrieval. Users can input URLs and ask questions to receive relevant insights from a domain. (But it's features can be extended to any domain.)
 ![product screenshot](resources/image.png)
 ### Features
 
